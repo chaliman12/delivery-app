@@ -19,7 +19,7 @@
 
 					<div class="list-group">
 						<a href="" class="list-group-item active" style="background-color: #1e4356;;">Categories</a>
-						<a href="/home" target="_blank" rel="noopener noreferrer">HOME</a>
+						<a href="/" target="_blank" rel="noopener noreferrer">HOME</a>
 						<a href="#" class="list-group-item">search Delivery</a>
 						
 						
