@@ -10,10 +10,9 @@
     <nav>
         <ul>
             <li><a href="#" target="_blank" rel="noopener noreferrer">Home</a></li>
-            li><a href="#" target="_blank" rel="noopener noreferrer">About us</a></li>
-            li><a href="#" target="_blank" rel="noopener noreferrer">Contacts</a></li>
-            li><a href="#" target="_blank" rel="noopener noreferrer">Sevice</a></li>
-            li><a href="#" target="_blank" rel="noopener noreferrer">websites</a></li>
+            <li><a href="#" target="_blank" rel="noopener noreferrer">About us</a></li>
+            <li><a href="#" target="_blank" rel="noopener noreferrer">Contacts</a></li>
+            <li><a href="#" target="_blank" rel="noopener noreferrer">websites</a></li>
         </ul>
     </nav>
 
