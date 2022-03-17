@@ -13,6 +13,17 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('welcome');
 });
+
+Route::get('/make', function () {
+    return view('make');
+});
+
+
+Route::get('/index', function () {
+    return view('index');
+});
+
+
